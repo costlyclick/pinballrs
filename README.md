@@ -15,3 +15,5 @@ If you are playing on an emulator, run the included HTML file to build a standal
 No copyrighted material is included. No infringement is intended.
 
 Have fun!
+
+<img width="480" height="768" alt="image" src="https://github.com/user-attachments/assets/76d3a707-1ea4-46a8-ad82-ed2596c573cd" />
